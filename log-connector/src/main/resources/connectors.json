@@ -1,0 +1,10 @@
+[
+  {
+    "name": "objectstyle.logs",
+    "connectorClass": "com.objectstyle.fusion.connectors.LogFSConnector",
+    "fetcherClass": "com.objectstyle.fusion.connectors.LogFetcher",
+    "types": {
+      "file": "com.objectstyle.fusion.connectors.LogFileType"
+    }
+  }
+]

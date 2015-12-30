@@ -1,0 +1,40 @@
+apply plugin: 'java'
+
+sourceCompatibility = 1.7
+targetCompatibility = 1.7
+
+repositories {
+	mavenCentral()
+}
+
+configurations {
+	provided
+}
+
+sourceSets {
+	main { 
+		compileClasspath += configurations.provided 
+	}
+}
+
+dependencies {
+	provided fileTree(dir: "${project.fusionHome}/apps/jetty/connectors/webapps/connectors/WEB-INF/lib", include: ['*.jar'])
+	
+	testCompile 'junit:junit:4.12'
+}
+
+jar {
+	archiveName = "objectsyle.logs.jar"
+}
+
+task copyJar(type: Copy) {
+	from jar, file('src/main/resources/connectors.json')
+	into "${project.fusionHome}/apps/connectors/plugins/objectstyle.logs"
+}
+
+task copyLibs(type: Copy) {
+	from configurations.runtime
+	into "${project.fusionHome}/apps/connectors/plugins/objectstyle.logs/lib"
+}
+
+task install(dependsOn: [copyJar, copyLibs])

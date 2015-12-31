@@ -1,7 +1,7 @@
 # fusion-logs-demo
 Index and search request logs with Fusion.
 
-Custom log crawling connector to parses log files and emits documents containing entire request log sequence from start to end which are fed into Fusion pipeline for indexing and after that are ready to be searched.
+Custom log crawling connector parses log files and emits documents containing entire request log sequence from start to end which are then fed into Fusion pipeline for indexing and after that are ready to be searched.
 
 #### Installing custom log connector
 Clone this repository and invoke `install` gradle task in log-connector dir: 

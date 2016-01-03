@@ -1,0 +1,88 @@
+{
+	"id": "cc8d82a2-a5e2-370c-1ccb-f05f4abd0d57",
+	"name": "fusion-logs-demo",
+	"description": "",
+	"order": [],
+	"folders": [
+		{
+			"id": "489e7979-5bf8-75fb-6d27-b1374da9c55f",
+			"name": "setup",
+			"description": "Create Fusion collection, set up datasource and start crawling logs",
+			"order": [
+				"d8d2a16e-acea-74f5-6ed8-d0fd193445d7",
+				"3b30c8e5-00ae-1609-ee0e-2413f3a8ac1c",
+				"70cdae9c-ce10-1ae9-7ecf-1e5983216687"
+			],
+			"owner": 0
+		}
+	],
+	"timestamp": 1451834235269,
+	"owner": 0,
+	"remoteLink": "",
+	"public": false,
+	"requests": [
+		{
+			"id": "3b30c8e5-00ae-1609-ee0e-2413f3a8ac1c",
+			"headers": "Authorization: Basic YWRtaW46dGVzdDEyMzQ=\nContent-Type: application/json\n",
+			"url": "http://localhost:8764/api/apollo/connectors/datasources",
+			"preRequestScript": "",
+			"pathVariables": {},
+			"method": "POST",
+			"data": [],
+			"dataMode": "raw",
+			"version": 2,
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"time": 1451835770955,
+			"name": "http://localhost:8764/api/apollo/connectors/datasources",
+			"description": "Create datasource using custom log parsing connector",
+			"collectionId": "cc8d82a2-a5e2-370c-1ccb-f05f4abd0d57",
+			"responses": [],
+			"rawModeData": "{\n    \"id\": \"logs-demo-data\",\n    \"connector\": \"objectstyle.logs\",\n    \"type\": \"file\",\n    \"pipeline\": \"default\",\n    \"properties\" : {\n    \"initial_mapping\" : {\n      \"id\" : \"Default\",\n      \"skip\" : false,\n      \"label\" : \"field-mapping\",\n      \"type\" : \"field-mapping\"\n    },\n    \"commit_on_finish\" : true,\n    \"path\" : \"{{logsRoot}}\",\n    \"crawl_depth\" : -1,\n    \"verify_access\" : true,\n    \"bounds\" : \"none\",\n    \"collection\" : \"logs-demo\"\n  }\n}"
+		},
+		{
+			"id": "70cdae9c-ce10-1ae9-7ecf-1e5983216687",
+			"headers": "Authorization: Basic YWRtaW46dGVzdDEyMzQ=\n",
+			"url": "http://localhost:8764/api/apollo/connectors/jobs/logs-demo-data",
+			"pathVariables": {},
+			"preRequestScript": "",
+			"method": "POST",
+			"collectionId": "cc8d82a2-a5e2-370c-1ccb-f05f4abd0d57",
+			"data": [],
+			"dataMode": "params",
+			"name": "http://localhost:8764/api/apollo/connectors/jobs/logs-demo-data",
+			"description": "Start crawling logs",
+			"descriptionFormat": "html",
+			"time": 1451835701118,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"folder": "489e7979-5bf8-75fb-6d27-b1374da9c55f"
+		},
+		{
+			"id": "d8d2a16e-acea-74f5-6ed8-d0fd193445d7",
+			"headers": "Authorization: Basic YWRtaW46dGVzdDEyMzQ=\nContent-Type: application/json\n",
+			"url": "http://localhost:8764/api/apollo/collections/logs-demo",
+			"pathVariables": {},
+			"preRequestScript": "",
+			"method": "PUT",
+			"collectionId": "cc8d82a2-a5e2-370c-1ccb-f05f4abd0d57",
+			"data": [],
+			"dataMode": "raw",
+			"name": "http://localhost:8764/api/apollo/collections/logs-demo",
+			"description": "Create Fusion collection named 'logs-demo'",
+			"descriptionFormat": "html",
+			"time": 1451834789447,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"folder": "489e7979-5bf8-75fb-6d27-b1374da9c55f",
+			"rawModeData": "{\n    \n}"
+		}
+	]
+}

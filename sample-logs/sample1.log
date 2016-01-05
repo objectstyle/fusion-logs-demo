@@ -1,0 +1,992 @@
+[25/Nov/2015:19:06:58,010] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:06:58,010] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:58,011] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:58,011] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:58,012] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:06:58,013] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:58,014] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:58,014] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:58,015] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:06:58,015] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:58,031] qtp995844287-24 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:06:58,101] qtp995844287-54 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:06:58,158] qtp995844287-54 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:06:58,804] qtp995844287-55 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:06:58,830] qtp995844287-55 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:06:58,951] qtp995844287-57 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:06:58,951] qtp995844287-57 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:06:59,017] qtp995844287-54 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:06:59,078] qtp995844287-23 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:06:59,078] qtp995844287-23 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:06:59,095] qtp995844287-54 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:06:59,544] qtp995844287-55 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:06:59,545] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,545] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,547] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:06:59,547] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,548] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 2 rows. - took 1 ms.
+[25/Nov/2015:19:06:59,548] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,556] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,557] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,560] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 15 rows. - took 4 ms.
+[25/Nov/2015:19:06:59,560] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,562] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,562] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,564] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 27 rows. - took 2 ms.
+[25/Nov/2015:19:06:59,565] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,567] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,567] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,569] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:06:59,569] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,570] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,570] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,571] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:06:59,571] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,572] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,573] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,573] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:06:59,574] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,574] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,574] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,575] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:06:59,575] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,576] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,576] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,577] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 0 ms.
+[25/Nov/2015:19:06:59,577] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,592] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,592] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,593] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:06:59,593] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,594] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,594] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,595] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 0 ms.
+[25/Nov/2015:19:06:59,595] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,597] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 100 rows. - took 2 ms.
+[25/Nov/2015:19:06:59,598] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,600] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,600] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,601] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:06:59,601] qtp995844287-57 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:06:59,601] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,602] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,602] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,604] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 32 rows. - took 2 ms.
+[25/Nov/2015:19:06:59,605] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,606] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 18 rows. - took 2 ms.
+[25/Nov/2015:19:06:59,607] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,609] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,609] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,610] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:06:59,610] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,612] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,612] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,613] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:06:59,613] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,614] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,614] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: select ***
+[25/Nov/2015:19:06:59,615] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:06:59,615] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,616] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,616] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: select ***
+[25/Nov/2015:19:06:59,617] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:06:59,617] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,618] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,618] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,620] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:06:59,620] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,624] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,624] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,626] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 2 ms.
+[25/Nov/2015:19:06:59,626] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,627] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,627] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,628] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:06:59,628] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,628] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,629] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,632] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 19 rows. - took 4 ms.
+[25/Nov/2015:19:06:59,632] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,632] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,632] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,634] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:06:59,635] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,636] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 19 rows. - took 3 ms.
+[25/Nov/2015:19:06:59,636] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,637] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,638] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,638] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:06:59,639] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,641] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,642] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,642] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:06:59,643] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,643] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,643] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,645] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 18 rows. - took 1 ms.
+[25/Nov/2015:19:06:59,645] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,645] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,645] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,646] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:06:59,646] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 12 rows. - took 1 ms.
+[25/Nov/2015:19:06:59,646] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,646] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,648] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,649] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,649] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:06:59,650] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,653] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,653] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,654] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:06:59,655] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,656] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,657] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,657] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,658] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,658] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:06:59,658] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,659] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:06:59,659] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,661] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,662] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,663] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 9 rows. - took 2 ms.
+[25/Nov/2015:19:06:59,663] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,664] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 8 rows. - took 1 ms.
+[25/Nov/2015:19:06:59,664] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,666] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,666] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,667] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:06:59,668] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,669] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,669] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,670] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,671] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,671] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:06:59,671] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:06:59,671] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,672] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,674] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,674] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,675] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:06:59,676] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,677] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,678] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,679] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:06:59,679] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,681] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,681] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,682] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:06:59,683] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,685] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,685] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,686] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:06:59,686] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,688] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,688] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,689] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:06:59,689] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,690] qtp995844287-55 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:06:59,691] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,691] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,692] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:06:59,692] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,697] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,697] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,698] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:06:59,698] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,701] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,701] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,702] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:06:59,702] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,705] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,705] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,706] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:06:59,706] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,708] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,708] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,709] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:06:59,710] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,711] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,712] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,712] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:06:59,713] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,715] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,715] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,716] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:06:59,716] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,718] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,718] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,719] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:06:59,719] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,724] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,724] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,725] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:06:59,726] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,728] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,728] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,729] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:06:59,729] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,731] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,732] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,733] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:06:59,733] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,736] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,736] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,737] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:06:59,737] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,740] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,740] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,741] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:06:59,741] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,744] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,744] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,745] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:06:59,747] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,749] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,749] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:06:59,750] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:06:59,750] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:06:59,770] qtp995844287-57 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:00,118] qtp995844287-20 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:00,118] qtp995844287-20 {} INFO  PermanentRedirect: will redirect to: http://www.example.com/test
+[25/Nov/2015:19:07:00,119] qtp995844287-20 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:00,159] qtp995844287-24 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:00,160] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:00,160] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:00,162] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 4 rows. - took 2 ms.
+[25/Nov/2015:19:07:00,162] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:00,163] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:00,164] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:00,164] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:07:00,165] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:00,165] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:00,166] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:00,166] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 4 rows. - took 0 ms.
+[25/Nov/2015:19:07:00,167] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:00,168] qtp995844287-24 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:00,204] qtp995844287-57 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:00,205] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:00,206] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:00,207] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 2 ms.
+[25/Nov/2015:19:07:00,207] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:00,208] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:00,208] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:00,209] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:07:00,209] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:00,210] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:00,210] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:00,211] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:07:00,211] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:00,212] qtp995844287-57 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:00,362] qtp995844287-23 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:00,374] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:00,375] qtp995844287-23 {} INFO  CommonsJdbcEventLogger:  select ***
+[25/Nov/2015:19:07:00,376] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:00,377] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:00,378] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:00,378] qtp995844287-23 {} INFO  CommonsJdbcEventLogger:  select ***
+[25/Nov/2015:19:07:00,379] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:00,380] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:00,381] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:00,381] qtp995844287-23 {} INFO  CommonsJdbcEventLogger:  select ***
+[25/Nov/2015:19:07:00,382] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:00,383] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:00,383] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:00,384] qtp995844287-23 {} INFO  CommonsJdbcEventLogger:  select ***
+[25/Nov/2015:19:07:00,385] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:00,386] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:00,386] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:00,386] qtp995844287-23 {} INFO  CommonsJdbcEventLogger:  select ***
+[25/Nov/2015:19:07:00,388] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:07:00,388] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:00,389] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:00,389] qtp995844287-23 {} INFO  CommonsJdbcEventLogger:  select ***
+[25/Nov/2015:19:07:00,391] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:07:00,392] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:00,392] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:00,393] qtp995844287-23 {} INFO  CommonsJdbcEventLogger:  select ***
+[25/Nov/2015:19:07:00,394] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:07:00,394] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:00,395] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:00,395] qtp995844287-23 {} INFO  CommonsJdbcEventLogger:  select ***
+[25/Nov/2015:19:07:00,396] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:00,397] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:00,397] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:00,397] qtp995844287-23 {} INFO  CommonsJdbcEventLogger:  select ***
+[25/Nov/2015:19:07:00,399] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:07:00,399] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:00,399] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:00,400] qtp995844287-23 {} INFO  CommonsJdbcEventLogger:  select ***
+[25/Nov/2015:19:07:00,401] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:07:00,401] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:00,414] qtp995844287-23 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:01,013] qtp995844287-24 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:01,074] qtp995844287-55 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:01,075] qtp995844287-55 {} INFO  SolrService: solr query start
+[25/Nov/2015:19:07:01,083] qtp995844287-55 {} INFO  SolrService: solr query end 8 ms.
+[25/Nov/2015:19:07:01,093] qtp995844287-24 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:01,105] qtp995844287-55 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:01,578] qtp995844287-54 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:01,608] qtp995844287-54 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:01,713] qtp995844287-57 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:01,715] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,715] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,716] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:01,716] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,717] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:01,717] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,718] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,718] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,719] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 3 rows. - took 1 ms.
+[25/Nov/2015:19:07:01,720] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,727] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,727] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,728] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:07:01,728] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,728] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,729] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,731] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 3 ms.
+[25/Nov/2015:19:07:01,732] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,734] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,734] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,737] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 3 ms.
+[25/Nov/2015:19:07:01,738] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,739] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,739] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,740] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:07:01,740] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,757] qtp995844287-57 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:01,772] qtp995844287-24 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:01,773] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,774] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: select ***
+[25/Nov/2015:19:07:01,775] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:01,776] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,777] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,777] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,778] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:01,779] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,780] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 2 rows. - took 2 ms.
+[25/Nov/2015:19:07:01,780] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,787] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,787] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,789] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 2 ms.
+[25/Nov/2015:19:07:01,790] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,791] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,791] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,792] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 2 rows. - took 1 ms.
+[25/Nov/2015:19:07:01,792] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,793] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,793] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,794] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:01,795] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,796] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,796] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,797] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:07:01,797] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,797] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,797] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,798] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:07:01,799] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,809] qtp995844287-55 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:01,810] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,810] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: select ***
+[25/Nov/2015:19:07:01,812] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:07:01,812] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,813] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,813] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,814] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:01,814] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,815] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 4 rows. - took 1 ms.
+[25/Nov/2015:19:07:01,815] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,815] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,816] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,816] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:07:01,817] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,818] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,818] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,819] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:07:01,820] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,821] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 2 ms.
+[25/Nov/2015:19:07:01,821] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,821] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,822] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,823] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,823] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 2 ms.
+[25/Nov/2015:19:07:01,823] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,823] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,824] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:07:01,825] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,825] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 6 rows. - took 2 ms.
+[25/Nov/2015:19:07:01,826] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,826] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,826] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,827] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,827] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,827] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:01,828] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,828] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 29 rows. - took 1 ms.
+[25/Nov/2015:19:07:01,829] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,830] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,830] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,830] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,831] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,832] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 2 ms.
+[25/Nov/2015:19:07:01,832] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:07:01,832] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,833] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,834] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,834] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: select ***
+[25/Nov/2015:19:07:01,834] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,834] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,835] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:01,836] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 2 ms.
+[25/Nov/2015:19:07:01,836] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,836] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,836] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,837] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: select ***
+[25/Nov/2015:19:07:01,837] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,837] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,838] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:07:01,838] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,838] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:07:01,838] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,838] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,839] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,839] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:07:01,839] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,840] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,840] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,841] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:07:01,841] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,842] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,842] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,844] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:07:01,844] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,845] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,845] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,846] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:01,847] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,847] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,848] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,849] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:07:01,849] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,859] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,859] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,859] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 0 ms.
+[25/Nov/2015:19:07:01,860] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,860] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,860] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,861] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:01,861] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,863] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 100 rows. - took 2 ms.
+[25/Nov/2015:19:07:01,864] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,865] qtp995844287-24 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:01,866] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,866] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,867] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:01,868] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,869] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,870] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,871] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 2 ms.
+[25/Nov/2015:19:07:01,872] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,873] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 2 ms.
+[25/Nov/2015:19:07:01,875] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,875] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,876] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,879] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 25 rows. - took 4 ms.
+[25/Nov/2015:19:07:01,880] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,881] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 12 rows. - took 2 ms.
+[25/Nov/2015:19:07:01,882] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,884] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,884] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,885] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:01,885] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,887] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,887] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,889] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:07:01,889] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,892] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,892] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,893] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:07:01,893] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,894] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,894] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: select ***
+[25/Nov/2015:19:07:01,896] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:07:01,897] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,898] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,898] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: select ***
+[25/Nov/2015:19:07:01,899] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:01,900] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,901] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,902] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,903] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 2 ms.
+[25/Nov/2015:19:07:01,904] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,905] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,905] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,911] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 42 rows. - took 6 ms.
+[25/Nov/2015:19:07:01,911] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,916] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 42 rows. - took 5 ms.
+[25/Nov/2015:19:07:01,917] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,946] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,946] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,948] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 21 rows. - took 2 ms.
+[25/Nov/2015:19:07:01,948] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,950] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 15 rows. - took 2 ms.
+[25/Nov/2015:19:07:01,950] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,963] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,964] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,966] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 3 ms.
+[25/Nov/2015:19:07:01,966] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,969] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,969] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,971] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 8 rows. - took 2 ms.
+[25/Nov/2015:19:07:01,972] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,973] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 7 rows. - took 1 ms.
+[25/Nov/2015:19:07:01,973] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:01,980] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:01,981] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:01,983] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 3 ms.
+[25/Nov/2015:19:07:01,983] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,002] qtp995844287-55 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:02,418] qtp995844287-20 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:02,419] qtp995844287-20 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,420] qtp995844287-20 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,421] qtp995844287-20 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:07:02,421] qtp995844287-20 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,422] qtp995844287-20 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:02,422] qtp995844287-20 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,430] qtp995844287-20 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,430] qtp995844287-20 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,431] qtp995844287-20 {} INFO  CommonsJdbcEventLogger: === returned 11 rows. - took 1 ms.
+[25/Nov/2015:19:07:02,431] qtp995844287-20 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,432] qtp995844287-20 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,432] qtp995844287-20 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,433] qtp995844287-20 {} INFO  CommonsJdbcEventLogger: === returned 11 rows. - took 1 ms.
+[25/Nov/2015:19:07:02,434] qtp995844287-20 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,434] qtp995844287-20 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,435] qtp995844287-20 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,436] qtp995844287-20 {} INFO  CommonsJdbcEventLogger: === returned 11 rows. - took 2 ms.
+[25/Nov/2015:19:07:02,436] qtp995844287-20 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,437] qtp995844287-20 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,437] qtp995844287-20 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,438] qtp995844287-20 {} INFO  CommonsJdbcEventLogger: === returned 11 rows. - took 1 ms.
+[25/Nov/2015:19:07:02,439] qtp995844287-20 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,453] qtp995844287-20 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:02,577] qtp995844287-57 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:02,601] qtp995844287-57 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:02,653] qtp995844287-24 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:02,655] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,655] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: select ***
+[25/Nov/2015:19:07:02,656] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:02,657] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,657] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,658] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,659] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:07:02,659] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,660] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 2 rows. - took 1 ms.
+[25/Nov/2015:19:07:02,661] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,668] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,669] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,671] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 6 rows. - took 3 ms.
+[25/Nov/2015:19:07:02,671] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,673] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,673] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,674] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 20 rows. - took 1 ms.
+[25/Nov/2015:19:07:02,675] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,676] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,676] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,677] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:02,677] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,678] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,678] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,679] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:02,679] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,680] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,680] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,681] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:07:02,681] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,682] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,682] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,682] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 0 ms.
+[25/Nov/2015:19:07:02,683] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,697] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,697] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,698] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:02,698] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,699] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,699] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,699] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 0 ms.
+[25/Nov/2015:19:07:02,700] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,702] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 100 rows. - took 3 ms.
+[25/Nov/2015:19:07:02,702] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,704] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,704] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,705] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:02,705] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,706] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,706] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,708] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 30 rows. - took 2 ms.
+[25/Nov/2015:19:07:02,708] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,710] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 19 rows. - took 2 ms.
+[25/Nov/2015:19:07:02,710] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,712] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,712] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,713] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:02,713] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,716] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,716] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,717] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:02,717] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,719] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,719] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: select ***
+[25/Nov/2015:19:07:02,720] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:02,721] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,722] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,722] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: select ***
+[25/Nov/2015:19:07:02,724] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:07:02,724] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,725] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,726] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,727] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:07:02,728] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,735] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,736] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,737] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 2 ms.
+[25/Nov/2015:19:07:02,738] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,739] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,739] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,744] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 21 rows. - took 5 ms.
+[25/Nov/2015:19:07:02,745] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,747] qtp995844287-55 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:02,748] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,748] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 21 rows. - took 4 ms.
+[25/Nov/2015:19:07:02,748] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: select ***
+[25/Nov/2015:19:07:02,749] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,749] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:02,750] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,750] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,751] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,752] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:07:02,752] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,753] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 2 rows. - took 1 ms.
+[25/Nov/2015:19:07:02,754] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,756] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,756] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,758] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 15 rows. - took 2 ms.
+[25/Nov/2015:19:07:02,758] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,759] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 9 rows. - took 1 ms.
+[25/Nov/2015:19:07:02,759] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,761] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,762] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,763] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 2 ms.
+[25/Nov/2015:19:07:02,763] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,764] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,764] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,765] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 18 rows. - took 1 ms.
+[25/Nov/2015:19:07:02,765] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,766] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,767] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,768] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:07:02,768] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,769] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,769] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,770] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,770] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:02,770] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,770] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,771] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,771] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,772] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:07:02,772] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,772] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:02,773] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,773] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,773] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,774] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,774] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:02,774] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,774] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,775] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 5 rows. - took 1 ms.
+[25/Nov/2015:19:07:02,775] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,775] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,775] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,776] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:07:02,776] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 5 rows. - took 1 ms.
+[25/Nov/2015:19:07:02,776] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,776] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,777] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,777] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,778] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:07:02,778] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,780] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,780] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,782] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 2 ms.
+[25/Nov/2015:19:07:02,783] qtp995844287-24 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,792] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,792] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,792] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 0 ms.
+[25/Nov/2015:19:07:02,792] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,793] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,793] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,794] qtp995844287-24 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:02,795] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 2 ms.
+[25/Nov/2015:19:07:02,795] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,796] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:07:02,796] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,797] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,797] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,798] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:07:02,799] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,799] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:07:02,800] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,801] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,801] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,802] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:02,802] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,802] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,803] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,803] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:02,804] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,806] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,806] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,808] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:07:02,808] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,809] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,810] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: select ***
+[25/Nov/2015:19:07:02,811] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:07:02,811] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,812] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,812] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: select ***
+[25/Nov/2015:19:07:02,813] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:07:02,814] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,815] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,815] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,816] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:07:02,817] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,818] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 2 ms.
+[25/Nov/2015:19:07:02,818] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,819] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:02,819] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,821] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 2 ms.
+[25/Nov/2015:19:07:02,821] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:02,822] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:07:02,823] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:02,839] qtp995844287-55 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:03,242] qtp995844287-57 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:03,261] qtp995844287-57 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:03,325] qtp995844287-23 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:03,347] qtp995844287-23 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:03,422] qtp995844287-24 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:03,422] qtp995844287-24 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:03,532] qtp995844287-55 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:03,533] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:03,534] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:03,534] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:03,535] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:03,536] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 20 rows. - took 2 ms.
+[25/Nov/2015:19:07:03,537] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:03,572] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:03,573] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:03,574] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 20 rows. - took 2 ms.
+[25/Nov/2015:19:07:03,574] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:03,575] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:03,576] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:03,576] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 8 rows. - took 0 ms.
+[25/Nov/2015:19:07:03,577] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:03,579] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:03,579] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:03,620] qtp995844287-54 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:03,620] qtp995844287-54 {} INFO  PermanentRedirect: will redirect to: http://www.example.com/test
+[25/Nov/2015:19:07:03,621] qtp995844287-54 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:03,661] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 8532 rows. - took 82 ms.
+[25/Nov/2015:19:07:03,662] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:03,667] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:03,667] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:03,669] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 12 rows. - took 2 ms.
+[25/Nov/2015:19:07:03,669] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:03,671] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 96 rows. - took 2 ms.
+[25/Nov/2015:19:07:03,671] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:03,677] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 8 rows. - took 6 ms.
+[25/Nov/2015:19:07:03,678] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:03,680] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:03,680] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:03,681] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:03,682] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:03,683] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:03,684] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: select ***
+[25/Nov/2015:19:07:03,685] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:03,686] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:03,689] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:03,689] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: select ***
+[25/Nov/2015:19:07:03,693] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 4 ms.
+[25/Nov/2015:19:07:03,694] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:03,696] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:03,697] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:03,698] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:07:03,698] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:03,699] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:03,699] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: select ***
+[25/Nov/2015:19:07:03,700] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:03,701] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:03,701] qtp995844287-20 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:03,701] qtp995844287-20 {} INFO  PermanentRedirect: will redirect to: http://www.example.com/test
+[25/Nov/2015:19:07:03,702] qtp995844287-20 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:03,702] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:03,702] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:03,703] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:03,703] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:03,704] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:03,704] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: select ***
+[25/Nov/2015:19:07:03,707] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 3 ms.
+[25/Nov/2015:19:07:03,707] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:03,709] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:03,709] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:03,710] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:03,710] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:03,711] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:03,711] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: select ***
+[25/Nov/2015:19:07:03,713] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:07:03,713] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:03,715] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:03,715] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:03,716] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:03,717] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:03,717] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:03,718] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: select ***
+[25/Nov/2015:19:07:03,719] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:03,719] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:03,720] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:03,721] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:03,721] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:03,722] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:03,723] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:03,723] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: select ***
+[25/Nov/2015:19:07:03,725] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:07:03,725] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:03,726] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:03,727] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:03,727] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:03,728] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:03,729] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:03,729] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: select ***
+[25/Nov/2015:19:07:03,731] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:07:03,731] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:03,733] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:03,733] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:03,734] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:03,734] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:03,735] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:03,735] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: select ***
+[25/Nov/2015:19:07:03,737] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:07:03,738] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:03,739] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:03,739] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:03,740] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:03,740] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:03,740] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:03,741] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: select ***
+[25/Nov/2015:19:07:03,742] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:03,743] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:03,744] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:03,744] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:03,745] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:03,746] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:03,747] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:03,747] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: select ***
+[25/Nov/2015:19:07:03,749] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:07:03,749] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:03,750] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:03,750] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:03,751] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:03,752] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:03,752] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:03,752] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: select ***
+[25/Nov/2015:19:07:03,754] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:07:03,755] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:03,772] qtp995844287-55 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:04,273] qtp995844287-57 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:04,289] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:04,289] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:04,291] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 4 rows. - took 2 ms.
+[25/Nov/2015:19:07:04,291] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:04,294] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 12 rows. - took 3 ms.
+[25/Nov/2015:19:07:04,294] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:04,295] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 10 rows. - took 1 ms.
+[25/Nov/2015:19:07:04,295] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:04,296] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 9 rows. - took 1 ms.
+[25/Nov/2015:19:07:04,297] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:04,299] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:04,299] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:04,301] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:07:04,301] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:04,302] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:04,302] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:04,303] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:04,303] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:04,306] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:04,306] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:04,307] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 21 rows. - took 1 ms.
+[25/Nov/2015:19:07:04,307] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:04,309] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 7 rows. - took 2 ms.
+[25/Nov/2015:19:07:04,309] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:04,310] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:04,310] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:04,311] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:04,312] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:04,312] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:04,312] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:04,313] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:04,313] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:04,314] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:04,314] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:04,314] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 0 ms.
+[25/Nov/2015:19:07:04,315] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:04,315] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:04,316] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:04,317] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:07:04,317] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:04,318] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:04,319] qtp995844287-57 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:04,335] qtp995844287-23 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:07:04,337] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:04,338] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: select ***
+[25/Nov/2015:19:07:04,339] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:04,340] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:04,341] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:04,342] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:04,342] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:04,343] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:04,343] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: === returned 2 rows. - took 1 ms.
+[25/Nov/2015:19:07:04,344] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:04,351] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:04,352] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:04,354] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: === returned 11 rows. - took 3 ms.
+[25/Nov/2015:19:07:04,355] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:04,356] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:04,357] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:04,358] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: === returned 21 rows. - took 2 ms.
+[25/Nov/2015:19:07:04,359] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:04,360] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:04,360] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:04,362] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 2 ms.
+[25/Nov/2015:19:07:04,362] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:04,363] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:04,363] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:04,364] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:07:04,364] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:04,365] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:04,365] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:04,366] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: === returned 0 rows. - took 1 ms.
+[25/Nov/2015:19:07:04,366] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:04,382] qtp995844287-23 {} INFO  SolrService: solr query start
+[25/Nov/2015:19:07:04,405] qtp995844287-23 {} INFO  SolrService: solr query end 23 ms.
+[25/Nov/2015:19:07:04,407] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:04,407] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:04,408] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:04,408] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.
+[25/Nov/2015:19:07:04,409] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:07:04,409] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:04,410] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: === returned 1 row. - took 1 ms.
+[25/Nov/2015:19:07:04,410] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: SELECT ***
+[25/Nov/2015:19:07:04,415] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: === returned 100 rows. - took 5 ms.
+[25/Nov/2015:19:07:04,415] qtp995844287-23 {} INFO  CommonsJdbcEventLogger: +++ transaction committed.

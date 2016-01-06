@@ -1,0 +1,15 @@
+[25/Nov/2015:19:06:58,101] qtp995844287-54 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:06:58,804] qtp995844287-55 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:06:58,815] qtp995844287-54 {} INFO  Query Log: SELECT * FROM test
+[25/Nov/2015:19:06:58,820] qtp995844287-55 {} INFO  Query Log: DELETE FROM example WHERE smth = 1
+[25/Nov/2015:19:06:58,830] qtp995844287-55 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:06:58,951] qtp995844287-57 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:06:58,951] qtp995844287-57 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:06:59,011] qtp995844287-54 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:06:59,017] qtp995844287-54 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:06:59,078] qtp995844287-23 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:06:59,078] qtp995844287-23 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:06:59,095] qtp995844287-54 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:06:59,544] qtp995844287-55 {} INFO  LogFilter: start 127.0.0.1 -> www.example.com GET /
+[25/Nov/2015:19:06:59,545] qtp995844287-55 {} INFO  CommonsJdbcEventLogger: --- transaction started.
+[25/Nov/2015:19:06:59,544] qtp995844287-55 {} INFO  LogFilter: end 200 127.0.0.1 -> www.example.com GET /

@@ -13,7 +13,7 @@ configurations {
 
 sourceSets {
 	main { 
-		compileClasspath += configurations.provided 
+		compileClasspath += configurations.provided
 	}
 }
 
@@ -21,6 +21,8 @@ dependencies {
 	provided fileTree(dir: "${project.fusionHome}/apps/jetty/connectors/webapps/connectors/WEB-INF/lib", include: ['*.jar'])
 	
 	testCompile 'junit:junit:4.12'
+	testCompile fileTree(dir: "${project.fusionHome}/apps/jetty/connectors/webapps/connectors/WEB-INF/lib", include: ['*.jar'])
+	testCompile fileTree(dir: "lib", include: ['*.jar'])
 }
 
 jar {
@@ -38,3 +40,14 @@ task copyLibs(type: Copy) {
 }
 
 task install(dependsOn: [copyJar, copyLibs])
+
+task prepareTestJar(type: Copy) {
+	from jar, file('src/main/resources/connectors.json')
+	into "build/plugins/objectstyle.logs"
+}
+
+test {
+	dependsOn prepareTestJar
+	systemProperty 'apollo.connectors.plugins', 'build/plugins'
+	systemProperty 'connectors.test.root.dir', 'build/tmp/test'
+}

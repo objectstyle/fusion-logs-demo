@@ -2,6 +2,7 @@ package com.objectstyle.fusion.connectors;
 
 
 import com.lucidworks.apollo.pipeline.index.config.transform.FieldMappingConfig;
+import com.lucidworks.apollo.pipeline.schema.IntegerType;
 import com.lucidworks.apollo.pipeline.schema.StringType;
 import com.lucidworks.apollo.pipeline.schema.UIHints;
 import com.lucidworks.apollo.pipeline.schema.validation.ValidationError;
@@ -15,6 +16,9 @@ import com.lucidworks.utils.StringUtils;
 import java.util.List;
 
 public class LogFileType extends DataSourceType {
+
+    public static final String THREAD_COUNT = "threadCount";
+    public static final int DEFAULT_THREAD_COUNT = 4;
 
     protected LogFileType() {
         super(DataSourceConstants.CATEGORY_FS, "File system", "Log File");
@@ -45,7 +49,6 @@ public class LogFileType extends DataSourceType {
 
     @Override
     protected void addConnectorSpecificSchema() {
-        // just one non-standard property "path".
         // we require a non-blank string - we could have also implemented
         // our own validation or provided a default path...
         schema
@@ -53,6 +56,10 @@ public class LogFileType extends DataSourceType {
                         StringType.create().withTitle("Root path")
                                 .withMinLength(1)
                                 .withHints(UIHints.LENGTHY));
+
+        schema.withProperty(THREAD_COUNT,
+                IntegerType.create().withTitle("Thread count")
+                        .withDefaultValue((long) DEFAULT_THREAD_COUNT));
         // this source supports boundary limits (exclude/include/bounds) options
         addBoundaryLimitsSchema();
         // this source supports reachability check during DS creation

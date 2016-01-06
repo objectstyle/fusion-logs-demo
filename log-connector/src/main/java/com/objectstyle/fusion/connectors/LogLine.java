@@ -12,7 +12,12 @@ public class LogLine {
     private static final Pattern LOG_LINE_PATTERN = Pattern.compile("\\[(.*)\\] ([a-zA-Z0-9 -]*) \\{\\} ([A-Z]*) (.*)");
     private static final Pattern REQUEST_START_END_PATTERN = Pattern.compile("LogFilter: ([a-z]*) (.*)");
 
-    private static final DateFormat TIMESTAMP_DATE_FORMAT = new SimpleDateFormat("dd/MMM/yyyy:H:mm:ss,SSS");
+    private static final ThreadLocal<DateFormat> TIMESTAMP_DATE_FORMAT = new ThreadLocal<DateFormat>() {
+        @Override
+        protected DateFormat initialValue() {
+            return new SimpleDateFormat("dd/MMM/yyyy:H:mm:ss,SSS");
+        }
+    };
 
     private static final String START_MARKER = "start";
     private static final String END_MARKER = "end";
@@ -38,7 +43,7 @@ public class LogLine {
             String level = logLineMatcher.group(3);
             String logMessage = logLineMatcher.group(4);
 
-            Date timestamp = TIMESTAMP_DATE_FORMAT.parse(timestampStr);
+            Date timestamp = TIMESTAMP_DATE_FORMAT.get().parse(timestampStr);
 
             LogLine logLine = new LogLine();
             logLine.setTimestamp(timestamp);
